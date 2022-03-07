@@ -45,3 +45,17 @@ Electronic literature is different from print literature as it requires technolo
 
 Some qualities of electronic literature are that majority of it is realised through code, such as Javascript or html. There are certain conventions, for example, 'Shade' is defined by vision, there always has to be a light source in order for the user to move around or for anything to exist, it has to be visible. The most prominent quality of electronic literature is that it requires the reader's interaction for the narrative to be completed or navigated through. 
 Every piece has its own conventions and techniques.  
+
+
+[Taroko Gorge Remix - Andrew Plotkin](https://nickm.com/taroko_gorge/argot_ogre_ok/)
+#### What aspects of the remix are the same?
+
+Both the original and this remix are continuous and never ending, and flow down the page line by line. They both have quite short lines as well.
+
+#### What aspects of the remix are different? 
+
+In this remix by Andrew Plotkin, it is split up into different stanza-like blocks, that are different colours, with black text on top. The stanzas are unrelated, and do not flow into each other. As the poem progresses and time passes, more stanza blocks appear; it starts off with one, then two appear, then three and so on. 
+
+#### Is the remix successful (why or why not)? 
+
+I think the original is more successful, as having the multiple blocks being unrelated makes it jarring, and doesn't let the story flow continuously like the original intended. The bright colours of the stnaza blocks also adds to the sense of the work being disjointed. The piece also appears to have code on the side running along with the continuous poem. The pace of the tet moving upwards is also too fast to read. 
