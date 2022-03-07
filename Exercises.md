@@ -28,3 +28,20 @@ I often listen to music when I write.
 I find using Word very useful, as it is very easy to grab blocks/paragraphs of writing and move them around, or have a lot of information in the one document. However I do find the one document and having to scroll through multiple pages constricting. 
 
 I also find writing on paper constricitng, as it is harder to edit than a word document.
+
+
+
+
+
+## Week 2
+
+### Questions
+
+#### How is electronic literature different from print literature? 
+
+Electronic literature is different from print literature as it requires technology to be actualised. Print literature doesn't need a laptop or the internet to be actualised necessarily. Electronic literature requires a very different reader experience, and requires the reader to interact with the piece for it to be completed and for the narrative to progress, as opposed to print literatue where the reader just has to hold the printed work and read it. Electronic literature also seems to be a lot more experimental than print literature. It is a much newer form of liteature in comparison to print liteature, and its conventions and techniques are evolving along with technology.  
+
+#### What are some of the qualities of electronic literature? 
+
+Some qualities of electronic literature are that majority of it is realised through code, such as Javascript or html. There are certain conventions, for example, 'Shade' is defined by vision, there always has to be a light source in order for the user to move around or for anything to exist, it has to be visible. The most prominent quality of electronic literature is that it requires the reader's interaction for the narrative to be completed or navigated through. 
+Every piece has its own conventions and techniques.  
