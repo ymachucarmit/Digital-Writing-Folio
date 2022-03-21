@@ -59,3 +59,11 @@ In this remix by Andrew Plotkin, it is split up into different stanza-like block
 #### Is the remix successful (why or why not)? 
 
 I think the original is more successful, as having the multiple blocks being unrelated makes it jarring, and doesn't let the story flow continuously like the original intended. The bright colours of the stnaza blocks also adds to the sense of the work being disjointed. The piece also appears to have code on the side running along with the continuous poem. The pace of the tet moving upwards is also too fast to read. 
+
+
+## Week 4
+
+### We walk to you remix 
+
+[Run,run,run](https://fir-ripe-gatsby.glitch.me)
+
