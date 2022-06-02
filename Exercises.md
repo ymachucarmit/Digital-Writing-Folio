@@ -96,3 +96,8 @@ I think planning hypertext fiction would be a lot harder than planning fiction. 
 
 #### Reflection on using Twine
 I found using Twine the easiest to use out of the other softwares we have experimented with so far as a class. I enjoyed the simplicity of just writing the story in without having to code it. However I did struggle to experiment much further than adding multiple passages and links. I wasn't able to add an image and get it to appear in the correct format. I like the simplicity of Twine from a reader perspective as well, as it is not too complicated to navigate through a story. 
+
+
+## Week 6
+
+[Bitsy example](file:///Users/ysabellemachuca/Desktop/digital%20writing%20projects/bitsy-example-2022/index.html)
