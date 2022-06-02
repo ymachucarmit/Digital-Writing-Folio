@@ -72,5 +72,5 @@ I think the original is more successful, as having the multiple blocks being unr
 
 ### Creating a Twine Story
 
-[You decide] (https://melodic-cocada-d55fcc.netlify.app/)
+[You decide](https://melodic-cocada-d55fcc.netlify.app/)
 
