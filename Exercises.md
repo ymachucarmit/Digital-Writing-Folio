@@ -74,3 +74,25 @@ I think the original is more successful, as having the multiple blocks being unr
 
 [You decide](https://melodic-cocada-d55fcc.netlify.app/)
 
+### Reflection on Twine exercise
+
+#### Writing Hypertext Fiction
+
+#### How is it different from fiction?
+
+I would say hypertext fiction differs from fiction in that it requires a level of reader interactivity. When reading fiction, such as in the form of a novel, the only interactivity required from the reader is to hold the novel and turn the page. Hypertext fiction invloves clicking, as well in some cases choosing what to click. In this case the story or narrative direction is up to the reader, and what link they choose to click on.
+
+#### How is it different from games?
+
+The difference between hypertext fiction and games is that games have an objective, something to complete or achieve in order to finish the game or progress. Although hypertext fiction involves a level of intereacting that is similar to that of a video game, the only objective is to read the work until the story finishes itself. There is no goal or objective for the reader to reach. The difference is also that hypertext fiction interaction involves a reader, game interaction involves a player.
+
+#### How do you plan fiction?
+
+I personally like to write very brief dot points down, either on paper or in a Word document that show a rough idea of the linear events that will occur. 
+
+#### How could you plan hypertext fiction?
+
+I think planning hypertext fiction would be a lot harder than planning fiction. I imagine you could possibly draw a family-tree looking plan, to show where you would want the story to branch off, and to see what part of the story connects to where. You could also see where you want the reader to click and link to this way. Using something similar to a flow chart could also work, using arrows to point where the narrative is going. 
+
+#### Reflection on using Twine
+I found using Twine the easiest to use out of the other softwares we have experimented with so far as a class. I enjoyed the simplicity of just writing the story in without having to code it. However I did struggle to experiment much further than adding multiple passages and links. I wasn't able to add an image and get it to appear in the correct format. I like the simplicity of Twine from a reader perspective as well, as it is not too complicated to navigate through a story. 
