@@ -100,4 +100,4 @@ I found using Twine the easiest to use out of the other softwares we have experi
 
 ## Week 6
 
-[Bitsy example]([file:///Users/ysabellemachuca/Desktop/digital%20writing%20projects/bitsy-example-2022/index.html](https://magnificent-seahorse-b91b88.netlify.app/))
+[Bitsy example](https://magnificent-seahorse-b91b88.netlify.app/) 
