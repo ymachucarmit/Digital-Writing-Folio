@@ -101,3 +101,4 @@ I found using Twine the easiest to use out of the other softwares we have experi
 ## Week 6
 
 [Bitsy example](https://magnificent-seahorse-b91b88.netlify.app/) 
+[Inform 7 example](https://stellar-croissant-f2e28b.netlify.app/index.html)
