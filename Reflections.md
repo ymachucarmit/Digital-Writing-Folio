@@ -1,9 +1,11 @@
 ## Final Project reflection
-Developing my final project 'Disaster Playlist' has been a challenge. Coming into this class I had never coded anything in my life before, and a lot of the jargon used was jibberish to me. I definitely struggle with getting the mechanics of my piece to work on my own
+Developing my final project 'The Playist for Betrayal' has been a challenge. Coming into this class I had never coded anything in my life before, and a lot of the jargon used was jibberish to me. I definitely struggled with getting the mechanics of my piece to work on my own. To make matters worst, I caught COVID towards the pivotol end of the semester, which set me back two weeks on my project.
+I enjoyed the challenge of planning and writing a story through Twine, as the structre required was different to anything I had written before. I found it enjoyable to write a story in second person which directly addressed the reader, ommitting any identifying features of characters, and having all the characters be annonymous. I spent a lot of time trying to figure out how to make my music choice work with the narrative of the story, rather than be a distraction. This required me to find software that allowed me to cut and trim songs, and to edit their volume, as to not have the music too loud for the reader. I also had to consider how to make sure the reader read my Twine story with music in the way I intended. Through debating with myself, I ended up including an instructions page of sorts to direct the reader to wear headphones, and to not have their volume loud. I concluded this way the best way to ensure that the reader heard each song. Through the HTML coding, I was able to auto loop each song, to ensure that the music played in time with the reader, and that if they didn't finish reading the passage in time with the music, the song would just loop and keep playing. My song choice was purposeful, and was intended to match the effects of the story. The songs used are meant to be perceived as if the reader themselves is at the party, and are hearing those songs played on a party speaker. 
+
 
 
 ## Reflection on class and practise
-
+I enjoyed the discussion of hypertext versus video games
 
 
 ## Peer feedback
