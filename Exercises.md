@@ -103,3 +103,7 @@ I found using Twine the easiest to use out of the other softwares we have experi
 [Bitsy example](https://magnificent-seahorse-b91b88.netlify.app/) 
 
 [Inform 7 example](https://stellar-croissant-f2e28b.netlify.app/index.html)
+
+I enjoyed using Bitsy, and it was a fun change to have a visual focus and video game focus. I can see the fun challenge of creating a narrative that is focused on charcater movement and picture, rather than a story from words. I am interested in the ongoing debate in our class of video game versus hypertext fiction. I argue that the main difference is that video games have a goal to reach at the end and an objective, where has hypertext fiction just require the reader to interact and read. Even if a video game has writing or dialogue, I still consider it a video game.
+
+I really struggled using Inform 7, as coding is not something I am familiar with. I cannot imagine how I would remember what specific characters and letters are required for each function I want to achieve. It was rewarding seeing the final product though. I don't think this is something I would want to use for my final project.
